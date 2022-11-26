@@ -1,0 +1,50 @@
+h1,h2{
+    color: red;
+}
+
+h2{
+    font-style: italic;
+}
+
+.my-container{
+    line-height: 40px;
+    color: brown;
+}
+
+#a{
+    text-decoration: line-through;
+}
+
+#c{
+    background-color: yellow;
+}
+
+#b{
+    font-style: italic;
+    text-decoration: underline;
+}
+#external{
+    color: brown;
+    letter-spacing: 5px;
+    
+}
+#span{
+    color: brown;
+    background-color: yellow;
+    letter-spacing: 5px;
+}
+#s{
+    color: brown;
+    letter-spacing: 5px;
+}
+
+.para{
+    color: brown;
+    
+}
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
